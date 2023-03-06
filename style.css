@@ -34,10 +34,9 @@ body{
     background-color:#ffffff ;
     float: right;
    
-    
-    
-
-
+}
+p{
+  width: 100%;
 }
 .heading{
     text-align: center;
